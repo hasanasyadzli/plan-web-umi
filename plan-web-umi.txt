@@ -1,0 +1,4 @@
+Plan Pembuatan Web Umi
+-Membuat tampilan
+-Membuat artikel seperti resep/ tips&trick di homepage
+-Membuat database kue
