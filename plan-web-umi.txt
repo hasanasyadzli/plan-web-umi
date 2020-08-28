@@ -2,5 +2,6 @@ Plan Pembuatan Web Umi
 -Membuat tampilan
 -Membuat artikel seperti resep/ tips&trick di homepage
 -Membuat database kue
--Membuat fitur pengubah harga
 -Memasukan Testimoni
+-Menambahkan Katalog Harga
+-Menambahkan Link Eksternal
