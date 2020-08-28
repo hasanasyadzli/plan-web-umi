@@ -2,5 +2,7 @@ Rencana content tambahan
 -membuat channel youtube
  >nama channel
  >talentnya siapa
+ *si A
+ *si B
 -input channel youtube orang lain
--live youtube
+-No Collabs
