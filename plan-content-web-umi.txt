@@ -3,3 +3,4 @@ Rencana content tambahan
  >nama channel
  >talentnya siapa
 -input channel youtube orang lain
+-live youtube
