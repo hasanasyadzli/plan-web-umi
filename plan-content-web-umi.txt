@@ -4,6 +4,7 @@ Rencana content tambahan
  >talentnya siapa
   *Artist
   *Non-Artist
+  *siapa aja boleh
 -input channel youtube orang lain
 -live youtube
 -collaboration
