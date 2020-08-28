@@ -1,3 +1,5 @@
 Rencana content tambahan
 -membuat channel youtube
+ >nama channel
+ >talentnya siapa
 -input channel youtube orang lain
